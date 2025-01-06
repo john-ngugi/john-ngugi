@@ -14,8 +14,8 @@ I'm a passionate software developer with experience in various programming langu
 
 ## 📫 How to reach me
 
-- Email: john@example.com
-- LinkedIn: [John Ngugi](https://www.linkedin.com/in/john-ngugi)
+- Email: johnngugi0407@gmail.com
+- LinkedIn: [John Ngugi]([https://www.linkedin.com/in/john-ngugi](https://www.linkedin.com/in/john-ngugi-a1b668217/))
 
 ## 🌟 Projects
 

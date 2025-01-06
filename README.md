@@ -19,5 +19,5 @@ I'm a passionate software developer with experience in various programming langu
 
 ## 🌟 Projects
 
-- [Awesome Project 1](https://github.com/john-ngugi/awesome-project-1) - A brief description of the project.
-- [Awesome Project 2](https://github.com/john-ngugi/awesome-project-2) - A brief description of the project.
+- [Awesome Project 1]([https://github.com/john-ngugi/awesome-project-1](https://github.com/john-ngugi/drought_indexer)) - A QGIS plugin to visualize Drought and the Drought Index..
+- [Awesome Project 2]([https://github.com/john-ngugi/awesome-project-2](https://github.com/john-ngugi/MapFinder)) - A small Project to create a location name from coordinates and coordiantes from map website.

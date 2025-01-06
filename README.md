@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm John Ngugi 👋
 
-<!--
-**john-ngugi/john-ngugi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer with experience in various programming languages and frameworks. I love working on open-source projects and contributing to the developer community.
 
-Here are some ideas to get you started:
+## 🛠 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programming Languages: Python, JavaScript, Java
+- Frameworks: React, Node.js, Django
+- Tools: Git, Docker, VS Code
+
+## 📈 GitHub Stats
+
+![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=john-ngugi&show_icons=true&theme=radical)
+
+## 📫 How to reach me
+
+- Email: john@example.com
+- LinkedIn: [John Ngugi](https://www.linkedin.com/in/john-ngugi)
+
+## 🌟 Projects
+
+- [Awesome Project 1](https://github.com/john-ngugi/awesome-project-1) - A brief description of the project.
+- [Awesome Project 2](https://github.com/john-ngugi/awesome-project-2) - A brief description of the project.

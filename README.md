@@ -1,4 +1,4 @@
-# Jambo !, I'm John Ngugi 
+# Jambo ! I'm John Ngugi 
 
 I'm a passionate spatial software developer with experience in various programming languages and frameworks. I love working on open-source projects and contributing to the developer community.
 
